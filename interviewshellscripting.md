@@ -68,4 +68,12 @@ python shell --> dynamically typed
  golang --> Var x string --> will throw error 
 
 * Explain about a network troubleshooting utility?
+traceroute google.com
+
+* How will you sort list on names in a file ?
+Sort 
+
+* How will you manage logs of a system that generate huge log files everyday?
+
+Logrotate (gzip, zip)
 
